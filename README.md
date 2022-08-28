@@ -14,7 +14,7 @@ This is a working template of how to create a basic backend user flow in a RESTf
   </code>
   <hr/>
           
-3. Set up your database connection in the application.properties file.
+3. Create an application.properties file and set up your database connection.
   <hr/>
   
 4. Run the app and use an appropriate client to make requests to the available endpoints.
